@@ -10,7 +10,7 @@
 
 ## 📋 Overview
 
-This project implements a **transfer learning** approach where a pre-trained CNN (e.g., VGG16, ResNet) is used as a fixed feature extractor. The extracted features are saved to disk and then used to train a simple classifier, avoiding the need to run the full network for every training epoch.
+This project implements a **transfer learning** approach where a pre-trained CNN (e.g., VGG16, ResNet) is used as a fixed feature extractor. The extracted features are saved to disk and then used to train a  simple classifier, avoiding the need to run the full network for every training epoch.
 
 ---
 
